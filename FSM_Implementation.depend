@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1602308594 source:c:\users\janani\onedrive\desktop\new folder\fsm_implementation\app.c
+	<stdio.h>
+	<stdlib.h>
+	<memory.h>
+	"fsm.h"
+
+1602308809 c:\users\janani\onedrive\desktop\new folder\fsm_implementation\fsm.h
+
+1602215597 c:\users\janani\onedrive\desktop\new folder\fsm_implementation\std_fsm.h
+	"fsm.h"
+
+1602215646 source:c:\users\janani\onedrive\desktop\new folder\fsm_implementation\app_bit_counter.c
+	<stdio.h>
+	<stdlib.h>
+	<memory.h>
+	"fsm.h"
+
+1602308733 source:c:\users\janani\onedrive\desktop\new folder\fsm_implementation\fsm.c
+	<stdio.h>
+	<stdlib.h>
+	<memory.h>
+	<assert.h>
+	<string.h>
+	"fsm.h"
+
